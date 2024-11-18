@@ -35,9 +35,11 @@ while True:
 ```
 ## OUPUT
 CLIENT:
+
 ![client exp6](https://github.com/user-attachments/assets/860ff8eb-32a3-45c2-8a24-62920378d283)
 
 SERVER:
+
 ![server exp6](https://github.com/user-attachments/assets/d2aa3fbb-2349-4ba4-8b48-1b63af9521e5)
 
 ## RESULT
